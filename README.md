@@ -1,8 +1,6 @@
 # tsutsun
-<<<<<<< HEAD
-gitをやります
-こんにちは初音ミクだよ
-=======
-洗濯ものtoitoitoi
-木のテーブルtoitoitoi
->>>>>>> refs/remotes/origin/master
+git やります
+亜sdファkじゃ；lsfk
+亜sdkファ；sldkファjdf；kl亜sdjf
+
+
