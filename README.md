@@ -1,2 +1,3 @@
 # tsutsun
-gitをやります
+洗濯ものtoitoitoi
+木のテーブルtoitoitoi
